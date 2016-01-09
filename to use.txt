@@ -1,0 +1,5 @@
+Run sample_text.m to select image from folder
+
+Main file is the z3351846_MTRN4230_ASST1, do all the edits there.
+
+Requires eter Corke's Machine Vision Toolbox for MATLAB to use the SURF feature detector.
